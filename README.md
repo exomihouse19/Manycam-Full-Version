@@ -235,4 +235,4 @@ This repository serves as the official landing page for ManyCam. The software is
 **Get the most recent version of ManyCam today!**
 
 ---
-**Last updated:** 2026-10-04 22:41:36 UTC
+**Last updated:** 2026-10-05 01:33:31 UTC
